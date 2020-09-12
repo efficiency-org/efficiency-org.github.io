@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: '[BUG] your-title-goes-here'
+labels: 'bug'
+assignees: 'JavascriptLearner815'
 
 ---
 
